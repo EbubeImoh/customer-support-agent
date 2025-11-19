@@ -1,5 +1,9 @@
 # Customer Support Agent (genai-toolbox)
 
+<p align="center">
+  <img src="docs/assets/hero.png" alt="Customer Support Agent" width="900" />
+</p>
+
 An LLM-powered customer support service wired to a genai-toolbox toolset (Postgres + Redis) with FastAPI. The agent routes user queries to database lookups, cached answers, or LLM generation, and the toolbox server exposes the underlying tools.
 
 ## What's included
